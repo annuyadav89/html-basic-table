@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+
+        <thead>
+
+            <th>Day</th>
+            <th>Salt</th>
+            <th>Milk</th>
+            <th>Sugar</th>
+            <th>Name of shop</th>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td>Monday</td>
+                <td>1kg</td>
+                <td>2kg</td>
+                <td>5kg</td>
+                <td rowspan="4">Ramu Kirana</td>
+            </tr>
+
+            <tr>
+                <td>sunday</td>
+                <td>1kg</td>
+                <td>2kg</td>
+                <td>5kg</td>
+            </tr>
+
+            <tr>
+
+                <td>wednesday</td>
+                <td>1kg</td>
+                <td>2kg</td>
+                <td>5kg</td>
+            </tr>
+<tr>
+            <td>thursday</td>
+                <td>1kg</td>
+                <td>2kg</td>
+                <td>5kg</td>
+                </tr>
+
+
+        </tbody>
+
+        <tfoot>
+            <tr>
+            <td colspan="3">total</td>
+            <td>100</td>
+            </tr>
+            
+        </tfoot>
+    </table>
+    
+</body>
+</html>
